@@ -6,4 +6,5 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Jonathan Alfa, [oo.or.id](https://oo.or.id).
+* Aris Saputra, [oo.or.id](https://oo.or.id).
+* Jonathan Alfa, [Linkedin](https://www.linkedin.com/in/jonathan-alfa-grace-juliantio/).
